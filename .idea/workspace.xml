@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9303b1b0-b585-40fb-8e56-b4a72f76985f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/contacts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/contacts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactManagerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactManagerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
+    &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -48,8 +45,8 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
-  }
-}</component>
+    }
+    }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -86,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660838214820</updated>
       <workItem from="1660838216192" duration="63945000" />
-      <workItem from="1661129279112" duration="878000" />
+      <workItem from="1661129279112" duration="1312000" />
+      <workItem from="1661177781178" duration="624000" />
     </task>
     <servers />
   </component>
