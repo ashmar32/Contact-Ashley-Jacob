@@ -16,7 +16,7 @@ public class ContactManagerMain {
                 3. Search a contact by name
                 4. Delete an existing contact
                 5. Exit
-                Enter an option (1, 2, 3, 4 or 5): """);
+                Please enter an option (1, 2, 3, 4 or 5): """);
             Input input = new Input();
             captureUserInput = input.getInt(1, 5);
 
@@ -58,7 +58,7 @@ public class ContactManagerMain {
                 case 4:
                     //delete a contact
                     Input input3 = new Input();
-                    System.out.println("Search contact by name: ");
+                    System.out.println("Delete contact by name: ");
 
                     // if individual contact = searchinput then output individual contact
                     String searchedNameInput2 = input3.getString();
@@ -75,9 +75,6 @@ public class ContactManagerMain {
                 case 5:
                     //kill the robot
                     System.out.println("Goodbye");
-                    break;
-                default:
-                    System.out.println("fuck you --- Enter an option (1, 2, 3, 4 or 5):");
                     break;
             }
 
