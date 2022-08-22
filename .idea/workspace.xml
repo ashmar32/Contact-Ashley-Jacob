@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9303b1b0-b585-40fb-8e56-b4a72f76985f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9303b1b0-b585-40fb-8e56-b4a72f76985f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,14 +45,31 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager">
 <<<<<<< HEAD
     <configuration name="ContactsManagerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContactsManagerApplication" />
 =======
+=======
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ContactManagerMain">
+    <configuration name="ContactManagerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContactManagerMain" />
+      <module name="Contacts-Ashley-Jacob" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> 7e413d03d9c82669c64a1f9d0df212751e8fc5ae
     <configuration name="FileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileMain" />
 >>>>>>> b7839eb81d9bbffa5697aa4af7974acdef0fa629
@@ -61,8 +81,12 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item itemvalue="Application.ContactsManagerApplication" />
 =======
+=======
+        <item itemvalue="Application.ContactManagerMain" />
+>>>>>>> 7e413d03d9c82669c64a1f9d0df212751e8fc5ae
         <item itemvalue="Application.FileMain" />
 >>>>>>> b7839eb81d9bbffa5697aa4af7974acdef0fa629
       </list>
@@ -76,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660838214820</updated>
-      <workItem from="1660838216192" duration="5261000" />
+      <workItem from="1660838216192" duration="63945000" />
     </task>
     <servers />
   </component>
