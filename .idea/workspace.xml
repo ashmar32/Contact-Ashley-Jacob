@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="9303b1b0-b585-40fb-8e56-b4a72f76985f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/contacts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/contacts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactManagerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactManagerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +35,8 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
-  }
-}]]></component>
-<<<<<<< HEAD
-  <component name="RunManager">
-<<<<<<< HEAD
-    <configuration name="ContactsManagerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContactsManagerApplication" />
-=======
-=======
-=======
   <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
+    &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -73,9 +45,8 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
-  }
-}</component>
->>>>>>> d19763dcf3eb21871a1525de1d61646b847f25e4
+    }
+    }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -89,10 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
->>>>>>> 7e413d03d9c82669c64a1f9d0df212751e8fc5ae
     <configuration name="FileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileMain" />
->>>>>>> b7839eb81d9bbffa5697aa4af7974acdef0fa629
       <module name="Contacts-Ashley-Jacob" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,15 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <item itemvalue="Application.ContactsManagerApplication" />
-=======
-=======
         <item itemvalue="Application.ContactManagerMain" />
->>>>>>> 7e413d03d9c82669c64a1f9d0df212751e8fc5ae
         <item itemvalue="Application.FileMain" />
->>>>>>> b7839eb81d9bbffa5697aa4af7974acdef0fa629
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660838214820</updated>
       <workItem from="1660838216192" duration="63945000" />
-      <workItem from="1661129279112" duration="878000" />
+      <workItem from="1661129279112" duration="1312000" />
+      <workItem from="1661177781178" duration="624000" />
     </task>
     <servers />
   </component>
