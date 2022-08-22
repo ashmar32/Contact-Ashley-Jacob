@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9303b1b0-b585-40fb-8e56-b4a72f76985f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/contacts.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactManagerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactManagerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="9303b1b0-b585-40fb-8e56-b4a72f76985f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660838214820</updated>
-      <workItem from="1660838216192" duration="63718000" />
+      <workItem from="1660838216192" duration="63945000" />
     </task>
     <servers />
   </component>
