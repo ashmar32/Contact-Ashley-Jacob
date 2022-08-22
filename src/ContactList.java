@@ -1,18 +1,15 @@
-import java.util.ArrayList;
+import java.util.List;
 
 public class ContactList {
-    private ArrayList<Contact> Contacts;
-    public ContactList() {
-        Contacts = new ArrayList<>();
-    }
+    private static List<String> Contacts;
+//    public ContactList() {
+//        Contacts = new ArrayList<>();
+//    }
 // this adds contacts to the ContactList
-    public void addContact(Contact contact) {
-        Contacts.add(contact);
-    }
 
-    public void printList() {
+    public static void printList() {
         System.out.println("My Contact List");
-        for(Contact contact : Contacts) {
+        for(String contact : Contacts) {
             System.out.println("\t" + contact);
         }
     }
