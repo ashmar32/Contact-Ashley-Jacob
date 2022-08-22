@@ -11,7 +11,7 @@ public class ContactManagerMain {
         Integer captureUserInput;
         do {
             System.out.println("""
-                1. View contacts ddd
+                1. View contacts 
                 2. Add a new contact
                 3. Search a contact by name
                 4. Delete an existing contact
