@@ -8,10 +8,10 @@ import java.util.List;
 
 public class ContactManagerMain {
     public static void main(String[] args) throws IOException {
-        Integer captureUserInput;
+        int captureUserInput;
         do {
             System.out.println("""
-                1. View contacts
+                1. View contacts 
                 2. Add a new contact
                 3. Search a contact by name
                 4. Delete an existing contact
@@ -79,7 +79,6 @@ public class ContactManagerMain {
             }
 
         } while (captureUserInput != 5);
-        return;
     }
 }
 
